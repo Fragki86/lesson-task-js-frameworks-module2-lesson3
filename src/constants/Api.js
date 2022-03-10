@@ -1,0 +1,1 @@
+export const api = "https://noroff.herokuapp.com/v1/old-games";
